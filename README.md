@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi am a student at Chandigarh University enrolled in BE CSE with specialization in AI and ML.
 <!--
 **gur-dhaliwal/gur-dhaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
